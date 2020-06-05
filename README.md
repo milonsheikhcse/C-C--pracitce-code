@@ -1,2 +1,3 @@
 # c-pracitce-code
-c language all practice code but some files are in c++.
+c language all practice code 
+and  some code files save in in c++.
